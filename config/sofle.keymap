@@ -27,6 +27,15 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        mo3 {
+            bindings = <&mo 3>;
+            key-positions = <53 56>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 

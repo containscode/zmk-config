@@ -39,6 +39,16 @@
             bindings = <&kp ESCAPE>;
             key-positions = <31 32>;
         };
+
+        mo3x {
+            bindings = <&mo 3>;
+            key-positions = <54 55>;
+        };
+
+        mo3y {
+            bindings = <&mo 3>;
+            key-positions = <31 32>;
+        };
     };
 
     keymap {

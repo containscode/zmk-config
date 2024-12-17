@@ -49,6 +49,11 @@
             bindings = <&mo 3>;
             key-positions = <33 34>;
         };
+
+        mo3tst {
+            bindings = <&mo 3>;
+            key-positions = <17 18>;
+        };
     };
 
     keymap {

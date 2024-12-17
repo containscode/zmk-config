@@ -37,6 +37,16 @@
             bindings = <&tog 3>;
             key-positions = <54 55>;
         };
+
+        fd_lgui {
+            bindings = <&sk LGUI>;
+            key-positions = <28 27>;
+        };
+
+        sd_ctrl {
+            bindings = <&sk LCTRL>;
+            key-positions = <27 26>;
+        };
     };
 
     keymap {

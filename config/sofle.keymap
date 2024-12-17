@@ -101,7 +101,7 @@
 &kp LS(EXCLAMATION)  &kp LS(NUMBER_2)      &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &bt BT_SEL 3      &bt BT_SEL 4                    &trans            &trans                &trans                 &trans          &trans           &trans
 &trans               &kp LS(NUMBER_1)      &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)                      &kp LS(NUMBER_6)  &kp LS(N7)            &kp LS(N8)             &kp BACKSPACE   &kp PLUS         &trans
 &trans               &kp LS(GREATER_THAN)  &kp LS(QUESTION)  &kp EQUAL         &kp MINUS         &kp TAB                         &kp GRAVE         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp BSPC
-&trans               &kp LS(LESS_THAN)     &kp LS(SEMI)      &kp SEMICOLON     &kp UNDERSCORE    &kp PERIOD    &trans    &trans  &kp LS(GRAVE)     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans          &kp BACKSLASH    &trans
+&trans               &kp LS(LESS_THAN)     &kp LS(SEMI)      &kp SEMICOLON     &kp UNDERSCORE    &kp PERIOD    &trans    &trans  &kp TILDE         &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PIPE        &kp BACKSLASH    &trans
                                            &trans            &trans            &trans            &trans        &trans    &trans  &trans            &trans                &trans                 &trans
             >;
 

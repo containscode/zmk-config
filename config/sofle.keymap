@@ -36,6 +36,7 @@
         mo3x {
             bindings = <&tog 3>;
             key-positions = <54 55>;
+            slow-release;
         };
 
         fd_lgui {

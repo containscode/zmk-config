@@ -118,10 +118,10 @@
 
         symbol_layer {
             bindings = <
-&kp LS(EXCL)  &kp LS(N2)    &kp LS(N3)     &kp LS(N4)      &bt BT_SEL 3    &bt BT_SEL 4  &mmv MOVE_UP     &trans                     &trans    &trans     &trans         &trans      &trans
+&kp EXCL      &kp LS(N2)    &kp LS(N3)     &kp LS(N4)      &bt BT_SEL 3    &bt BT_SEL 4  &mmv MOVE_UP     &trans                     &trans    &trans     &trans         &trans      &trans
 &trans        &kp LS(N1)    &kp LS(N2)     &kp LS(N3)      &kp LS(N4)      &kp LS(N5)    &mmv MOVE_DOWN   &kp LS(N6)                 &kp LS(N7)  &kp LS(N8)   &kp BACKSPACE  &kp PLUS    &trans
-&trans        &kp LS(GT)    &kp LS(QMARK)  &kp EQUAL       &kp MINUS       &kp TAB       &mmv MOVE_LEFT   &kp LS(NON_US_BACKSLASH)   &kp LPAR    &kp RPAR     &kp LBRACE     &kp RBRACE  &kp BSPC
-&trans        &kp LS(LT)    &kp LS(SEMI)   &kp SEMICOLON   &kp UNDERSCORE  &kp PERIOD    &mmv MOVE_RIGHT  &kp NON_US_BSLH            &kp LBKT    &kp RBKT     &kp PIPE       &kp BSLH    &trans
+&trans        &kp GT        &kp QMARK      &kp EQUAL       &kp MINUS       &kp TAB       &mmv MOVE_LEFT   &kp LS(NON_US_BACKSLASH)   &kp LPAR    &kp RPAR     &kp LBRACE     &kp RBRACE  &kp BSPC
+&trans        &kp LT        &kp COLON      &kp SEMICOLON   &kp UNDERSCORE  &kp PERIOD    &mmv MOVE_RIGHT  &kp NON_US_BSLH            &kp LBKT    &kp RBKT     &kp PIPE       &kp BSLH    &trans
 &kp C_MUTE    &trans        &trans         &mo 3           &trans          &trans        &mkp LCLK        &trans                     &trans      &trans       &trans         &trans
             >;
 

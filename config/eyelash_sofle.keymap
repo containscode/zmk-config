@@ -74,12 +74,6 @@
             bindings = <&kp ESCAPE>;
             key-positions = <34 35>;
         };
-
-        mo3x {
-            bindings = <&tog 3>;
-            key-positions = <60 61>;
-            slow-release;
-        };
     };
 
     macros {
